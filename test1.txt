@@ -1,4 +1,9 @@
 # test_branch_strategy
 
-Change on master branch
+Change on develop branch
+{
+	Change on master branch
+}
+
+Add new feature here #1
 
